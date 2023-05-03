@@ -1,0 +1,76 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="style-tribute.css">
+    </head>
+    <body>
+      <main id="main">
+        <h1 id="title"><u>
+Garfield</u><br>
+        </h1>
+    <h2> A feline biography </h2>
+        <figure id="img-div">
+          <img id="image" src="https://www.livrensemble.be/wp-content/uploads/2020/09/garfield.jpg" alt="Garfield posing as an icon for all cats">
+          <figcaption id="img-caption"> Garfield, the famous orange and black-striped tabby cat. 
+          </figcaption>
+          </figure>
+    <section id="tribute-info">
+      <h3 id="headline">Here's some fun facts about our favorite snarky cat ! </h3>
+      <ul>
+        <li> On <strong>June 19th 1978</strong>, Garfield made his first appearance in newspapers. </li><br>
+        <li> <strong> Lasagnas </strong> are Garfield's favorite dishes. </li><br>
+        <li> Garfield hates <strong> Mondays </strong> and <strong> dogs</strong>. </li><br>
+        <li> Jon Arbuckle is Garfield's <s> servant</s><strong> owner</strong>.</li><br>
+         <li><strong>Pooky</strong> is Garfield's beloved teddy bear.</li><br>
+
+         <li>Garfield also lives with  <strong>Odie</strong>, a rather simple-minded dog.</li> <br>
+
+<li> <strong>Nermal</strong>, a kitten, is Garfield's rival.</li><br>
+
+<li><strong>Arlene</strong> is Garfield's love interest, although she is not that much interested in him.</li><br>
+
+        </ul>
+<blockquote>
+           <cite> 
+          <p>
+            "I hate mondays."
+          </p>
+           </cite>
+             
+  Garfield 
+  </blockquote>
+ 
+<h4>
+   If you want to know more about this splendid and marvelous cat, you should check his
+  
+          <a id="tribute-link" href="https://en.wikipedia.org/wiki/Garfield_(character)" target="_blank">Wikipedia entry</a>.
+          </h4>
+           </blockquote>
+           </section>
+           </main>
+           </body>
+           </html>
+
+
+        
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+     
+    
+      
+
+
+
